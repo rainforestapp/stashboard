@@ -1,5 +1,5 @@
-application: stashboard-hrd
-version: 2
+application: rnfrststatus
+version: 1
 runtime: python
 api_version: 1
 
